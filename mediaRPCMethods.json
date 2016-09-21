@@ -1,0 +1,37 @@
+[
+    {	
+        "method": "serviceInfo",
+        "params": [ ],
+        "returns": "I am the media service."
+    },
+    {	
+        "method": "add",
+        "params": [{}],
+        "returns": true
+    },
+    {	
+        "method": "remove",
+        "params": ["aString"],
+        "returns": true
+    },
+    {	
+        "method": "get",
+        "params": ["aString"],
+        "returns": []
+    },
+    {
+        "method": "getTitles",
+        "params": [ ],
+        "returns": []
+    },
+    {
+        "method": "getMusicTitles",
+        "params": [ ],
+        "returns": []
+    },
+    {
+        "method": "getVideoTitles",
+        "params": [ ],
+        "returns": []
+    }
+]
